@@ -18,8 +18,13 @@
 
 ---
 
----
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=shashwatchoudhry&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=0d0486&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</p>
 
 <div align="center">
   <sub>Configured with <a href="https://gitcolors.vercel.app">gitcolors</a> | Generated for <a href="https://github.com/eternalshash">@eternalshash</a></sub>
 </div>
+
