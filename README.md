@@ -1,10 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Shashwat Choudhry 👋
-
-### Electrical & Computer Engineering | IoT & Smart Connected Systems | Cyber-Physical Platforms
-
-[![GitHub followers](https://img.shields.io/github/followers/eternalshash?label=Follow&style=social)](https://github.com/eternalshash)
 
 <br/>
 
@@ -22,13 +17,6 @@
 </div>
 
 ---
-
-### 🚀 About Me
-
-- 🎓 **Undergraduate Researcher** in Electrical & Computer Engineering at **Illinois Institute of Technology**
-- 🛡️ **Knightfall Protocol**
-- ⚡ **Focus Areas:** Autonomous IoT Edge Nodes, Smart HVAC & Climate Twin Modeling, Firmware Engineering (C/C++), Embedded Sensors & Wireless Protocols (BLE, Classic Bluetooth, Wi-Fi, MQTT), and Systems Programming
-- 💻 **Core Tech Stack:** C, C++, Python, Linux (BlueZ / POSIX), ESP32, Arduino, Raspberry Pi, Git, FreeRTOS
 
 ---
 
