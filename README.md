@@ -19,6 +19,10 @@
 ---
 
 <p align="center">
+  <img src="batman-logo.gif" alt="Batman Logo Showcase" width="480" />
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=shashwatchoudhry&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=0d0486&bar_color_cover=false" alt="Spotify Profile" />
   </a>
