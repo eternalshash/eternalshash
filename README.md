@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="batman-logo.gif?v=0.5x" alt="Batman Logo Showcase" width="480" />
+  <img src="batman-logo.gif?v=4s" alt="Batman Logo Showcase" width="480" />
 </p>
 
 <p align="center">
